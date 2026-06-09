@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Cookie / 凭证 —— 切勿提交! (含 HttpOnly 会话令牌 ityxb_sss 和手机号)
+cookie.tnt
+cookie*.txt
+*.cookie
+
+# IDE
+.vscode/
+.idea/

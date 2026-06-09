@@ -1,0 +1,4 @@
+# 传智播客预习视频自动刷课依赖
+# 安装: pip3 install -r requirements.txt
+requests>=2.28.0
+pycryptodome>=3.18.0
