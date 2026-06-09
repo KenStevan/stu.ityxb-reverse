@@ -319,7 +319,7 @@ def main():
         for p in previews:
             watch_preview(s, p.get("id") or p.get("previewId"),
                           args.speed, args.interval, HEARTBEAT)
-    print("\n全部完成 ✅")
+    print("\n全部完成 ")
 
 
 if __name__ == "__main__":
